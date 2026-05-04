@@ -1,0 +1,1 @@
+print("Hello, World! ... e que nem oi mundo, muito daora né? ")
